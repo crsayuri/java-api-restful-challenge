@@ -8,7 +8,7 @@
 		<version>3.1.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>java</groupId>
+	<groupId>final-project</groupId>
 	<artifactId>java-api-challenge</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>java-api-challenge</name>
@@ -40,6 +40,12 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+			<version>6.2.13.Final</version>
+			<type>pom</type>
 		</dependency>
 	</dependencies>
 

@@ -1,4 +1,4 @@
-package java.javaapichallenge;
+package finalproject.javaapichallenge;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
